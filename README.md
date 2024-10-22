@@ -13,3 +13,7 @@ Przygotuj trzy podstrony z nawigacją pozwalającą na przenoszenie się między
    ![green.png](green.PNG)
 
    ![green.png](blue.PNG)
+
+   prace przesyłamy do:
+
+   https://drive.google.com/drive/folders/1ipzdrAmN_QSsmYsPFyZRqj67OiQmV2Jb?usp=drive_link
