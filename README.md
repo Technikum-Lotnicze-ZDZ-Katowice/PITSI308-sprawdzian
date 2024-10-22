@@ -10,8 +10,6 @@ Przygotuj trzy podstrony z nawigacją pozwalającą na przenoszenie się między
 
    ![red.png](red.PNG)
 
-   
    ![green.png](green.PNG)
 
-   
-![green.png](blue.PNG)
+   ![green.png](blue.PNG)
