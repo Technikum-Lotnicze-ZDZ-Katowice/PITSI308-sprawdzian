@@ -7,4 +7,4 @@ Przygotuj trzy podstrony z nawigacją pozwalającą na przenoszenie się między
 3. Aktywna strona widczna w menu (wyszarzony i nieaktywny button)
 
    
-![green.png](green.png)
+![green.png](green.PNG)
